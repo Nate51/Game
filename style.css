@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: black;
+}
+
+.box {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    position: absolute;
+}
+.enemy {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: red;
+
+}
+
